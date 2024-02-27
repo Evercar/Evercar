@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Ever Cardozo</h1>
-<h3 align="center">Soy estuduante</h3>
+<h3 align="center">Soy estudiante</h3>
 
 - 📫 How to reach me **everdanielcardozobenitez@gmail.com**
 
